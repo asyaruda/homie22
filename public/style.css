@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #007BFF;
+  }
+  
+  #questionsContainer {
+    margin-top: 20px;
+  }
+  
+  #questionsContainer p {
+    font-weight: bold;
+  }
+  
+  #submitButton {
+    margin-top: 20px;
+    background-color: #007BFF;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #submitButton:disabled {
+    background-color: #CCCCCC;
+    cursor: not-allowed;
+  }
+  
+  #result {
+    margin-top: 20px;
+  }

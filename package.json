@@ -1,0 +1,33 @@
+{
+  "name": "homie22",
+  "version": "1.0.0",
+  "description": "hometask retake",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asyaruda/homie22.git"
+  },
+  "keywords": [
+    "simple",
+    "test",
+    "cheking",
+    "first",
+    "server"
+  ],
+  "author": "Anastasiia Kholod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asyaruda/homie22/issues"
+  },
+  "homepage": "https://github.com/asyaruda/homie22#readme",
+  "dependencies": {
+    "@fastify/cors": "^8.3.0",
+    "@fastify/static": "^6.10.2",
+    "fastify": "^4.21.0",
+    "fastify-cors": "^3.0.0",
+    "fastify-static": "^4.7.0"
+  }
+}
